@@ -1,0 +1,5 @@
+favorite movie:Eighth mile;
+favorite series:The Sandman;
+favorite food:Borsch;
+favorite season:Summer;
+the country I would like to visit:USA
