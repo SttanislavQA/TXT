@@ -1,0 +1,5 @@
+name:Stanislav;
+surname:Puhalskiy;
+age:22;
+number of pets:0;
+future desired salary in USD:700
